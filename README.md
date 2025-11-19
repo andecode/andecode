@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍💻 [codigoaprendiz.com.br](codigoaprendiz.com.br)
+🧑‍💻 [codigoaprendiz.com.br](https://codigoaprendiz.com.br/)
 
 #### Ensinando Programação com Matemática
 
