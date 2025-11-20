@@ -2,7 +2,7 @@
 
 🧑‍💻 [codigoaprendiz.com.br](https://codigoaprendiz.com.br/)
 
-#### Ensinando Programação com Matemática
+#### Aprendendo Programação com Matemática
 
 | Título do Artigo | Publicado | Link site | Link Github
 | ---------------- |----------------|-------|-------| 
