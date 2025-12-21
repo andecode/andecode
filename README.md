@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|11| **Capacidade em Código** |Capacidade é o volume interno de um recipiente... ➡️| [site](https://codigoaprendiz.com.br/capacidade-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/11-capacidade-em-codigo.ipynb) |
 |10| **Avos em Código** |As frações cujo denominador é maior que 10, mas não é potência de 10 (10, 100, 1000, …), são lidas usando a palavra “avos”... ➡️| [site](https://codigoaprendiz.com.br/avos-em-codigo/) ||
 |09| **Aresta em Código** |Aresta é a linha reta comum a duas faces de um poliedro... ➡️| [site](https://codigoaprendiz.com.br/aresta-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/09-aresta-em-codigo.ipynb) |
 |08| **Área em Código** |Área é a medida de uma superfície, ou seja, indica quanto espaço uma figura ocupa em duas dimensões... ➡️| [site](https://codigoaprendiz.com.br/area-em-codigo/) ||
@@ -15,4 +16,5 @@
 |04| **Operações Básicas em Código** |As 4 (quatro) operações básicas da matemática são: adição, subtração, multiplicação e divisão... ➡️| [site](https://codigoaprendiz.com.br/operacoes-basicas-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/04-opera-bas-em-cod.ipynb) |
 |03| **Maior em Código** |Em matemática, “maior” é um conceito usado para comparar dois ou mais elementos e indicar qual deles possui valor mais elevado... ➡️| [site](https://codigoaprendiz.com.br/maior-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/03-maior-em-cod.ipynb) |
 |02| **Contagem de Valores em Código** |Contar valores significa determinar quantos elementos existem em um conjunto, sequência ou situação... ➡️| [site](https://codigoaprendiz.com.br/contagem-de-valores-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/02-contagem-em-cod.ipynb) |
-|01| **Média em Código**  |A média de um conjunto de dados é encontrada somando-se todos os números do conjunto de dados e então dividindo o resultado pelo número de valores do conjunto... ➡️| [site](https://codigoaprendiz.com.br/media-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/01-media-em-cod.ipynb) |
+
+Tabela com as 10 últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
