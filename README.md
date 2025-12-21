@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|12| **Casas Decimais em Código** |Casas decimais são as posições dos algarismos que aparecem à direita da vírgula (ou ponto decimal) em um número decimal... ➡️| [site](https://codigoaprendiz.com.br/casas-decimais-em-codigo/) ||
 |11| **Capacidade em Código** |Capacidade é o volume interno de um recipiente... ➡️| [site](https://codigoaprendiz.com.br/capacidade-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/11-capacidade-em-codigo.ipynb) |
 |10| **Avos em Código** |As frações cujo denominador é maior que 10, mas não é potência de 10 (10, 100, 1000, …), são lidas usando a palavra “avos”... ➡️| [site](https://codigoaprendiz.com.br/avos-em-codigo/) ||
 |09| **Aresta em Código** |Aresta é a linha reta comum a duas faces de um poliedro... ➡️| [site](https://codigoaprendiz.com.br/aresta-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/09-aresta-em-codigo.ipynb) |
@@ -15,6 +16,5 @@
 |05| **Algarismo em Código** |Algarismos são símbolos usados para escrever números... ➡️| [site](https://codigoaprendiz.com.br/algarismos-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/05-algarismo-em-cod.ipynb) |
 |04| **Operações Básicas em Código** |As 4 (quatro) operações básicas da matemática são: adição, subtração, multiplicação e divisão... ➡️| [site](https://codigoaprendiz.com.br/operacoes-basicas-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/04-opera-bas-em-cod.ipynb) |
 |03| **Maior em Código** |Em matemática, “maior” é um conceito usado para comparar dois ou mais elementos e indicar qual deles possui valor mais elevado... ➡️| [site](https://codigoaprendiz.com.br/maior-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/03-maior-em-cod.ipynb) |
-|02| **Contagem de Valores em Código** |Contar valores significa determinar quantos elementos existem em um conjunto, sequência ou situação... ➡️| [site](https://codigoaprendiz.com.br/contagem-de-valores-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/02-contagem-em-cod.ipynb) |
 
 Tabela-resumo com as 10 últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
