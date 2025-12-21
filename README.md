@@ -17,4 +17,4 @@
 |03| **Maior em Código** |Em matemática, “maior” é um conceito usado para comparar dois ou mais elementos e indicar qual deles possui valor mais elevado... ➡️| [site](https://codigoaprendiz.com.br/maior-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/03-maior-em-cod.ipynb) |
 |02| **Contagem de Valores em Código** |Contar valores significa determinar quantos elementos existem em um conjunto, sequência ou situação... ➡️| [site](https://codigoaprendiz.com.br/contagem-de-valores-em-codigo/) | [repositório](https://github.com/andecode/codigo-aprendiz/blob/main/02-contagem-em-cod.ipynb) |
 
-Tabela com as 10 últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
+Tabela-resumo com as 10 últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
