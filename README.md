@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|17| **Fração em Código** |Na linguagem comum, fração significa parte. Na matemática, deve-se ter um todo (ou uma unidade) que é dividido em partes iguais, das quais uma ou mais são consideradas... ➡️| [site](https://codigoaprendiz.com.br/fracao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/17-fracao-em-codigo.ipynb) |
 |16| **Cubo em Código** |Cubo é uma espécie de bloco retangular cujas faces são quadrados. Um cubo tem 6 faces, 12 arestas e 8 vértices... ➡️| [site](https://codigoaprendiz.com.br/cubo-em-codigo/) ||
 |15| **Dados Estatísticos em Código** |Os dados estatísticos são informações obtidas em pesquisas estatísticas... ➡️| [site](https://codigoaprendiz.com.br/dados-estatisticos-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/15-dados-estatisticos-em-codigo.ipynb) |
 |14| **Consecutivo em Código** |Dois números inteiros são consecutivos se um deles vem imediatamente após o outro na ordem habitual... ➡️| [site](https://codigoaprendiz.com.br/consecutivo-em-codigo/) ||
@@ -15,6 +16,5 @@
 |10| **Avos em Código** |As frações cujo denominador é maior que 10, mas não é potência de 10 (10, 100, 1000, …), são lidas usando a palavra “avos”... ➡️| [site](https://codigoaprendiz.com.br/avos-em-codigo/) ||
 |09| **Aresta em Código** |Aresta é a linha reta comum a duas faces de um poliedro... ➡️| [site](https://codigoaprendiz.com.br/aresta-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/09-aresta-em-codigo.ipynb) |
 |08| **Área em Código** |Área é a medida de uma superfície, ou seja, indica quanto espaço uma figura ocupa em duas dimensões... ➡️| [site](https://codigoaprendiz.com.br/area-em-codigo/) ||
-|07| **Aproximação em Código** |Aproximação é a obtenção de um resultado próximo do verdadeiro... ➡️| [site](https://codigoaprendiz.com.br/aproximacao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/07-aproxima-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
