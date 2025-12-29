@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|23| **Escala em Código** |Escala é a proporção em que uma figura é ampliada ou reduzida. Escala, também, é... ➡️| [site](https://codigoaprendiz.com.br/escala-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/23-escala-em-codigo.ipynb) |
 |22| **Equivalente em Código** |Palavra formada por equi (igual) e valente (valor). De igual valor ou de mesmo valor... ➡️| [site](https://codigoaprendiz.com.br/equivalente-em-codigo/) ||
 |21| **Dízima Periódica em Código** |Dízima periódica é um número decimal infinito e repetitivo, no qual um ou mais algarismos se repetem indefinidamente após a vírgula... ➡️| [site](https://codigoaprendiz.com.br/dizima-periodica-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/21-dizima-periodica-em-codigo.ipynb) |
 |20| **Dimensão em Código** |Dimensão é cada uma das medidas que dão o tamanho de um figura geométrica... ➡️| [site](https://codigoaprendiz.com.br/dimensao-em-codigo/) ||
@@ -15,6 +16,5 @@
 |16| **Cubo em Código** |Cubo é uma espécie de bloco retangular cujas faces são quadrados. Um cubo tem 6 faces, 12 arestas e 8 vértices... ➡️| [site](https://codigoaprendiz.com.br/cubo-em-codigo/) ||
 |15| **Dados Estatísticos em Código** |Os dados estatísticos são informações obtidas em pesquisas estatísticas... ➡️| [site](https://codigoaprendiz.com.br/dados-estatisticos-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/15-dados-estatisticos-em-codigo.ipynb) |
 |14| **Consecutivo em Código** |Dois números inteiros são consecutivos se um deles vem imediatamente após o outro na ordem habitual... ➡️| [site](https://codigoaprendiz.com.br/consecutivo-em-codigo/) ||
-|13| **Centímetro em Código** |Centímetro é a palavra formada por centi (centésimo) e metro. O centímetro (símbolo: cm) é a centésima parte do metro... ➡️| [site](https://codigoaprendiz.com.br/centimetro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/13-centimetro-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
