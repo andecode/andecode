@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|27| **Frequência em Código** |Em uma pesquisa estatística, frequência é o número de vezes que certo dado é obtido... ➡️| [site](https://codigoaprendiz.com.br/frequencia-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/27-frequencia-em-codigo.ipynb) |
 |26| **Expressão Numérica em Código** |Expressão numérica é uma sequência de operações numéricas indicadas, ou seja, não efetuadas... ➡️| [site](https://codigoaprendiz.com.br/expressao-numerica-em-codigo/) ||
 |25| **Expoente em Código** |Expoente de uma potência indica o número de vezes que o fator se repete... ➡️| [site](https://codigoaprendiz.com.br/expoente-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/25-expoente-em-codigo.ipynb) |
 |24| **Esfera em Código** |Esfera é uma figura geométrica espacial. Bolas de bilhar, por exemplo, têm forma de esfera... ➡️| [site](https://codigoaprendiz.com.br/esfera-em-codigo/) ||
@@ -15,6 +16,5 @@
 |20| **Dimensão em Código** |Dimensão é cada uma das medidas que dão o tamanho de um figura geométrica... ➡️| [site](https://codigoaprendiz.com.br/dimensao-em-codigo/) ||
 |19| **Diâmetro em Código** |Diâmetro é o segmento de reta que liga dois pontos de um circunferência e passa pelo seu centro. A relação fundamental é d=2.r... ➡️| [site](https://codigoaprendiz.com.br/diametro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/19-diametro-em-codigo.ipynb) |
 |18| **Diagonal em Código** |Uma diagonal é o segmento de reta que liga dois vértices não consecutivos de um polígono... ➡️| [site](https://codigoaprendiz.com.br/diagonal-em-codigo/) ||
-|17| **Fração em Código** |Na linguagem comum, fração significa parte. Na matemática, deve-se ter um todo (ou uma unidade) que é dividido em partes iguais, das quais uma ou mais são consideradas... ➡️| [site](https://codigoaprendiz.com.br/fracao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/17-fracao-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
