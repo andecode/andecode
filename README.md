@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|33| **Litro em Código** |Litro é a unidade de medida de capacidade (símbolo: L). Com essa unidade mede-se, por exemplo, quanto líquido cabe em um recipiente... ➡️| [site](https://codigoaprendiz.com.br/litro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/33-litro-em-codigo.ipynb) |
 |32| **Hexágono em Código** |Hexágono é uma palavra de origem grega formada por hexa (seis) e gono (ângulo). É um polígono de seis lados... ➡️| [site](https://codigoaprendiz.com.br/hexagono-em-codigo/) ||
 |31| **Hectare em Código** |Hectare é a unidade de área (símbolo: ha) equivalente a 10.000m<sup>2</sup>... ➡️| [site](https://codigoaprendiz.com.br/hectare-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/31-hectare-em-codigo.ipynb) |
 |30| **Temperatura em Código** |Temperatura é uma grandeza física escalar que mede o nível de agitação (energia cinética média) das partículas de um corpo... ➡️| [site](https://codigoaprendiz.com.br/temperatura-em-codigo/) ||
@@ -15,6 +16,5 @@
 |26| **Expressão Numérica em Código** |Expressão numérica é uma sequência de operações numéricas indicadas, ou seja, não efetuadas... ➡️| [site](https://codigoaprendiz.com.br/expressao-numerica-em-codigo/) ||
 |25| **Expoente em Código** |Expoente de uma potência indica o número de vezes que o fator se repete... ➡️| [site](https://codigoaprendiz.com.br/expoente-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/25-expoente-em-codigo.ipynb) |
 |24| **Esfera em Código** |Esfera é uma figura geométrica espacial. Bolas de bilhar, por exemplo, têm forma de esfera... ➡️| [site](https://codigoaprendiz.com.br/esfera-em-codigo/) ||
-|23| **Escala em Código** |Escala é a proporção em que uma figura é ampliada ou reduzida. Escala, também, é... ➡️| [site](https://codigoaprendiz.com.br/escala-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/23-escala-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
