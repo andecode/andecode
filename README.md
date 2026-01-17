@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|34| **Malha em Código** |Na Matemática, o termo malha refere-se a uma estrutura formada pela repetição regular de figuras geométricas, usada para organizar o plano, representar posições, medir áreas, estudar formas e modelar fenômenos geométricos... ➡️| [site](https://codigoaprendiz.com.br/malha-em-codigo/) ||
 |33| **Litro em Código** |Litro é a unidade de medida de capacidade (símbolo: L). Com essa unidade mede-se, por exemplo, quanto líquido cabe em um recipiente... ➡️| [site](https://codigoaprendiz.com.br/litro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/33-litro-em-codigo.ipynb) |
 |32| **Hexágono em Código** |Hexágono é uma palavra de origem grega formada por hexa (seis) e gono (ângulo). É um polígono de seis lados... ➡️| [site](https://codigoaprendiz.com.br/hexagono-em-codigo/) ||
 |31| **Hectare em Código** |Hectare é a unidade de área (símbolo: ha) equivalente a 10.000m<sup>2</sup>... ➡️| [site](https://codigoaprendiz.com.br/hectare-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/31-hectare-em-codigo.ipynb) |
@@ -15,6 +16,5 @@
 |27| **Frequência em Código** |Em uma pesquisa estatística, frequência é o número de vezes que certo dado é obtido... ➡️| [site](https://codigoaprendiz.com.br/frequencia-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/27-frequencia-em-codigo.ipynb) |
 |26| **Expressão Numérica em Código** |Expressão numérica é uma sequência de operações numéricas indicadas, ou seja, não efetuadas... ➡️| [site](https://codigoaprendiz.com.br/expressao-numerica-em-codigo/) ||
 |25| **Expoente em Código** |Expoente de uma potência indica o número de vezes que o fator se repete... ➡️| [site](https://codigoaprendiz.com.br/expoente-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/25-expoente-em-codigo.ipynb) |
-|24| **Esfera em Código** |Esfera é uma figura geométrica espacial. Bolas de bilhar, por exemplo, têm forma de esfera... ➡️| [site](https://codigoaprendiz.com.br/esfera-em-codigo/) ||
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
