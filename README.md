@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|43| **Planificação em Código** |Planificação é um mapa especial de uma figura espacial. A partir de sua planificação, pode-se construir a figura espacial... ➡️| [site](https://codigoaprendiz.com.br/planificacao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/43-planificacao-em-codigo.ipynb) |
 |42| **Pirâmide em Código** |Pirâmide é uma figura espacial formada por um polígono (que é a base da pirâmide) e por triângulos... ➡️| [site](https://codigoaprendiz.com.br/piramide-em-codigo/) ||
 |41| **Pentágono em Código** |Pentágono é uma palavra de origem grega formada por penta (cinco) e gono (ângulo). Polígono de 5 lados... ➡️| [site](https://codigoaprendiz.com.br/pentagono-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/41-pentagono-em-codigo.ipynb) |
 |40| **Padrão em Código** |Padrão é a característica comum a certo grupo de objetos; nesse caso, diz-se que eles têm um mesmo padrão. A palavra padrão é usada muitas vezes com um sentido mais amplo... ➡️| [site](https://codigoaprendiz.com.br/padrao-em-codigo/) ||
@@ -15,6 +16,5 @@
 |36| **Metro em Código** |Metro é a unidade de medida de comprimento (símbolo: m). É uma unidade fundamental, pois outras unidades (como o quilômetro) derivam dela... ➡️| [site](https://codigoaprendiz.com.br/metro-em-codigo/) ||
 |35| **Média Ponderada em Código** |É um tipo de média aritmética em que os números têm pesos... ➡️| [site](https://codigoaprendiz.com.br/media-ponderada-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/35-media-ponderada-em-codigo.ipynb) |
 |34| **Malha em Código** |Na Matemática, o termo malha refere-se a uma estrutura formada pela repetição regular de figuras geométricas... ➡️| [site](https://codigoaprendiz.com.br/malha-em-codigo/) ||
-|33| **Litro em Código** |Litro é a unidade de medida de capacidade (símbolo: L). Com essa unidade mede-se, por exemplo, quanto líquido cabe em um recipiente... ➡️| [site](https://codigoaprendiz.com.br/litro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/33-litro-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
