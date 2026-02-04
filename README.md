@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|50| **Proporcionalidade em Código** |Quando compramos pãezinhos, o preço deles varia com a quantidade comprada. Duplicando a quantidade, duplica-se o preço; triplicando a quantidade, triplica o preço; e assim por diante... ➡️| [site](https://codigoaprendiz.com.br/proporcionalidade-em-codigo/) ||
 |49| **Proporção em Código** |Proporção é a relação multiplicativa entre duas grandezas ou duas medidas expressas por dois números... ➡️| [site](https://codigoaprendiz.com.br/proporcao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/49-proporcao-em-codigo.ipynb) |
 |48| **Potência em Código** |Potência é o produto de fatores iguais. 2 x 2 x 2 x 2 x 2 = 2<sup>5</sup> = 32. 2<sup>5</sup> é uma *potência*. O número 2 é a *base*; o número 5 é o *expoente* da potência... ➡️| [site](https://codigoaprendiz.com.br/potencia-em-codigo/) ||
 |47| **Possibilidade em Código** |Possibilidades são resultados que podem ocorrer em dada situação... ➡️| [site](https://codigoaprendiz.com.br/possibilidade-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/47-possibilidade-em-codigo.ipynb) |
@@ -15,6 +16,5 @@
 |43| **Planificação em Código** |Planificação é um mapa especial de uma figura espacial. A partir de sua planificação, pode-se construir a figura espacial... ➡️| [site](https://codigoaprendiz.com.br/planificacao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/43-planificacao-em-codigo.ipynb) |
 |42| **Pirâmide em Código** |Pirâmide é uma figura espacial formada por um polígono (que é a base da pirâmide) e por triângulos... ➡️| [site](https://codigoaprendiz.com.br/piramide-em-codigo/) ||
 |41| **Pentágono em Código** |Pentágono é uma palavra de origem grega formada por penta (cinco) e gono (ângulo). Polígono de 5 lados... ➡️| [site](https://codigoaprendiz.com.br/pentagono-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/41-pentagono-em-codigo.ipynb) |
-|40| **Padrão em Código** |Padrão é a característica comum a certo grupo de objetos; nesse caso, diz-se que eles têm um mesmo padrão. A palavra padrão é usada muitas vezes com um sentido mais amplo... ➡️| [site](https://codigoaprendiz.com.br/padrao-em-codigo/) ||
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
