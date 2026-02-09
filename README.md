@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|55| **Retângulo em Código** |Retângulo é o quadrilátero que tem os quatro ângulos medindo 90°. O quadrado é um retângulo especial... ➡️| [site](https://codigoaprendiz.com.br/retangulo-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/55-retangulo-em-codigo.ipynb) |
 |54| **Raio em Código** |Raio é o segmento de reta que vai do centro a um ponto qualquer da circunferência... ➡️| [site](https://codigoaprendiz.com.br/raio-em-codigo/) ||
 |53| **Quilômetro em Código** |Palavra formada por quilo (mil) e metro. É a unidade de medida de comprimento (símbolo: km) que corresponde a 1.000 metros... ➡️| [site](https://codigoaprendiz.com.br/quilometro-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/53-quilometro-em-codigo.ipynb) |
 |52| **Quadrado Mágico em Código** |Quadrado mágico é uma tabela de números dispostos em forma de quadrado, de maneira que a soma dos números de cada linha, coluna ou diagonal seja sempre a mesma... ➡️| [site](https://codigoaprendiz.com.br/quadrado-magico-em-codigo/) ||
@@ -15,6 +16,5 @@
 |48| **Potência em Código** |Potência é o produto de fatores iguais. 2 x 2 x 2 x 2 x 2 = 2<sup>5</sup> = 32. 2<sup>5</sup> é uma *potência*. O número 2 é a *base*; o número 5 é o *expoente* da potência... ➡️| [site](https://codigoaprendiz.com.br/potencia-em-codigo/) ||
 |47| **Possibilidade em Código** |Possibilidades são resultados que podem ocorrer em dada situação... ➡️| [site](https://codigoaprendiz.com.br/possibilidade-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/47-possibilidade-em-codigo.ipynb) |
 |46| **Porcentagem em Código** |Porcentagem é a parte de um total imaginado como 100% (cem por cento). Assim, 20% indica 20 partes das 100 partes de um total... ➡️| [site](https://codigoaprendiz.com.br/porcentagem-em-codigo/) ||
-|45| **Ponto Médio em Código** |Ponto médio de um segmento de reta é aquele que divide o segmento ao meio. A fórmula do ponto médio é... ➡️| [site](https://codigoaprendiz.com.br/ponto-medio-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/45-ponto-medio-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
