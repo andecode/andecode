@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|71| **Média Harmônica em Código** |Média harmônica de vários números é o inverso da média aritmética dos inversos desses números... ➡️| [site](https://codigoaprendiz.com.br/media-harmonica-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/71-media-harmonica-em-codigo.ipynb) |
 |70| **Média Geométrica em Código** |Média geométrica de dois números *a* e *b* é a raiz quadrada do produto desses números... ➡️| [site](https://codigoaprendiz.com.br/media-geometrica-em-codigo/) ||
 |69| **Fração Imprópria em Código** |É aquela cujo numerador é igual ou superior ao denominador. Assim, 5/5, 13/2 são frações impróprias... ➡️| [site](https://codigoaprendiz.com.br/fracao-impropria-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/69-fracao-impropria-em-codigo.ipynb) |
 |68| **Fração Decimal em Código** |É toda a fração que tem por denominador qualquer potência de 10 com expoente positivo... ➡️| [site](https://codigoaprendiz.com.br/fracao-decimal-em-codigo/) ||
@@ -15,6 +16,5 @@
 |64| **Triângulo em Código** |Triângulo é um polígono de três lados. Triângulo acutângulo tem três ângulos agudos. Triângulo equilátero tem três lados iguais... ➡️| [site](https://codigoaprendiz.com.br/triangulo-em-codigo/) ||
 |63| **Trapézio em Código** |Trapézio é o quadrilátero que tem um par de lados paralelos... ➡️| [site](https://codigoaprendiz.com.br/trapezio-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/63-trapezio-em-codigo.ipynb) |
 |62| **Transferidor em Código** |Transferidor é um instrumento de desenho que serve para medir ângulos... ➡️| [site](https://codigoaprendiz.com.br/transferidor-em-codigo/) ||
-|61| **Tonelada em Código** |Tonelada é a unidade de medida de massa (símbolo: t) equivalente a 1.000 kg... ➡️| [site](https://codigoaprendiz.com.br/tonelada-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/61-tonelada-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
