@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|81| **Adição de Polinômios em Código** |Para somar vários polinômios, é preciso escrever todos os seus termos uns depois dos outros, cada um com seu sinal, e reduzir os termos semelhantes... ➡️| [site](https://codigoaprendiz.com.br/adicao-de-polinomios-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/81-adicao-polinomios-em-codigo.ipynb) |
 |80| **Adição de Monômios em Código** |Para somar vários monômios, é preciso escrevê-los uns depois dos outros com seus sinais, e reduzir os termos semelhantes... ➡️| [site](https://codigoaprendiz.com.br/adicao-de-monomios-em-codigo/) ||
 |79| **Adição e Subtração de Frações em Código** |Para somar ou subtrair várias frações algébricas, devemos: 1° Reduzi-las ao mesmo denominador; 2° Fazer a soma ou a diferença dos numeradores... ➡️| [site](https://codigoaprendiz.com.br/adicao-e-subtracao-de-fracoes-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/79-Adicao-subtracao-de-fracoes-em-codigo.ipynb) |
 |78| **Simplificação de Frações em Código** |Para simplificar uma fração algébrica, dividem-se todos os termos do numerador e do denominador pelos fatores comuns... ➡️| [site](https://codigoaprendiz.com.br/simplificacao-de-fracoes-em-codigo/) ||
@@ -15,6 +16,5 @@
 |74| **Soma de Frações em Código** |Para somar frações de denominadores diferentes, é preciso reduzi-las ao mesmo denominador, somar os numeradores, dar a soma do denominador comum e extrair os inteiros se houver... ➡️| [site](https://codigoaprendiz.com.br/soma-de-fracoes-em-codigo/) ||
 |73| **Frações de Frações em Código** |Fração de fração é uma ou mais partes de uma fração. Regra – Para se calcular uma fração de frações, basta fazer a multiplicação das frações... ➡️| [site](https://codigoaprendiz.com.br/fracoes-de-fracoes-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/73-fracoes-de-fracoes-em-codigo.ipynb) |
 |72| **Multiplicação de Frações em Código** |1º caso – Multiplicação de uma fração por um número inteiro. Regra: para se multiplicar uma fração por um número inteiro, multiplica-se o numerador pelo número inteiro e dá-se ao produto o denominador da fração... ➡️| [site](https://codigoaprendiz.com.br/multiplicacao-de-fracoes-em-codigo/) ||
-|71| **Média Harmônica em Código** |Média harmônica de vários números é o inverso da média aritmética dos inversos desses números... ➡️| [site](https://codigoaprendiz.com.br/media-harmonica-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/71-media-harmonica-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
