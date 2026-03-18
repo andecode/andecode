@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|87| **Eliminação por Substituição em Código** |Eliminar uma incógnita, entre várias equações simultâneas, é achar um sistema equivalente ao primeiro, que tenha uma equação e uma incógnita a menos... ➡️| [site](https://codigoaprendiz.com.br/eliminacao-por-substituicao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/87-eliminacao-por-substituicao-em-codigo.ipynb) |
 |86| **Sistemas de Equações Simultâneas em Código** |Quando várias equações são equivalentes, o seu conjunto tem o nome de sistema de equações simultâneas. Por exemplo, as três equações equivalentes: x+y-z=9, x-y+z=12 e -x+y+z=16... ➡️| [site](https://codigoaprendiz.com.br/sistemas-de-equacoes-simultaneas-em-codigo/) ||
 |85| **Regra de Três em Código** |É a que ensina a resolver problemas por meio de proporções. Chama-se de três, pois os elementos conhecidos são ordinariamente três... ➡️| [site](https://codigoaprendiz.com.br/regra-de-tres-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/85-regra-de-tres-em-codigo.ipynb) |
 |84| **Corolário em Código** |Se o produto de dois números é igual ao de outros dois, com os quatro números podemos formar uma proporção, sendo termos extremos, os fatores de um dos produtos, e meios, os fatores do outro... ➡️| [site](https://codigoaprendiz.com.br/corolario-em-codigo/) ||
@@ -15,6 +16,5 @@
 |80| **Adição de Monômios em Código** |Para somar vários monômios, é preciso escrevê-los uns depois dos outros com seus sinais, e reduzir os termos semelhantes... ➡️| [site](https://codigoaprendiz.com.br/adicao-de-monomios-em-codigo/) ||
 |79| **Adição e Subtração de Frações em Código** |Para somar ou subtrair várias frações algébricas, devemos: 1° Reduzi-las ao mesmo denominador; 2° Fazer a soma ou a diferença dos numeradores... ➡️| [site](https://codigoaprendiz.com.br/adicao-e-subtracao-de-fracoes-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/79-Adicao-subtracao-de-fracoes-em-codigo.ipynb) |
 |78| **Simplificação de Frações em Código** |Para simplificar uma fração algébrica, dividem-se todos os termos do numerador e do denominador pelos fatores comuns... ➡️| [site](https://codigoaprendiz.com.br/simplificacao-de-fracoes-em-codigo/) ||
-|77| **Fração Algébrica em Código** |Fração literal, ou algébrica, é o quociente de duas expressões cuja divisão não foi efetuada... ➡️| [site](https://codigoaprendiz.com.br/fracao-algebrica-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/77-fracao-algebrica-em-codigo.ipynb) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
