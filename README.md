@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|92| **Medidas de Capacidade em Código** |São as que servem para medir volumes de secos e molhados como vinho, azeite, grãos, farinha, certas frutas, etc. A unidade das medidas de capacidade é o litro... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-capacidade-em-codigo/) ||
 |91| **Medidas de Área em Código** |São as que servem para avaliar a extensão considerada com duas dimensões, comprimento e largura, como a área de uma assoalho, de um campo, etc... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-area-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/91-medidas-area-em-codigo.ipynb) |
 |90| **Medidas Agrárias em Código** |As medidas agrárias servem para avaliar a área de terrenos, campos, florestas, vinhedos, prados, etc. A unidade principal das medidas agrárias é o are... ➡️| [site](https://codigoaprendiz.com.br/medidas-agrarias-em-codigo/) ||
 |89| **Eliminação por Adição em Código** |Eliminar uma incógnita, entre várias equações simultâneas, é achar um sistema equivalente ao primeiro, que tenha uma equação e uma incógnita a menos... ➡️| [site](https://codigoaprendiz.com.br/eliminacao-por-adicao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/89-eliminacao-por-adicao-em-codigo.ipynb) |
@@ -15,6 +16,5 @@
 |85| **Regra de Três em Código** |É a que ensina a resolver problemas por meio de proporções. Chama-se de três, pois os elementos conhecidos são ordinariamente três... ➡️| [site](https://codigoaprendiz.com.br/regra-de-tres-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/85-regra-de-tres-em-codigo.ipynb) |
 |84| **Corolário em Código** |Se o produto de dois números é igual ao de outros dois, com os quatro números podemos formar uma proporção, sendo termos extremos, os fatores de um dos produtos, e meios, os fatores do outro... ➡️| [site](https://codigoaprendiz.com.br/corolario-em-codigo/) ||
 |83| **Juros Simples em Código** |Depositando-se dinheiro num banco, ou emprestando-o a uma pessoa, recebe-se um prêmio chamado juro. Capital é a quantidade depositada ou emprestada... ➡️| [site](https://codigoaprendiz.com.br/juros-simples-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/83-juros-simples-em-codigo.ipynb) |
-|82| **Grandezas Proporcionais em Código** |Duas grandezas são proporcionais: 1º Quando a cada quantidade da primeira corresponde outra na segunda, e reciprocamente... ➡️| [site](https://codigoaprendiz.com.br/grandezas-proporcionais-em-codigo/) ||
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
