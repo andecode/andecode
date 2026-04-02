@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|102| **Subconjuntos em Código** |Consideremos os exemplos: A = {a,b,c,d….x,y,z}. Seja agora o conjunto V das vogais do alfabeto: V = {a,e,i,o,u}. Ora, qualquer que seja o elemento de V, ele também pertence a A... ➡️| [site](https://codigoaprendiz.com.br/subconjuntos-em-codigo/) ||
 |101| **Conjunto Universo em Código** |Conjunto universo é o conjunto que contém todos os elementos com os quais se quer trabalhar em um problema ou em uma teoria. Este conjunto deve ser fixado no início de cada tarefa, pois ele tem... ➡️| [site](https://codigoaprendiz.com.br/conjunto-universo-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/101-conjunto-universo-em-cod.ipynb) |
 |100| **Conjuntos em Código** |Apesar de não se poder definir o conjunto, entederemos que ele seja um ente primitivo, isto é, uma coleção ou uma lista bem definida de objetos, símbolos, etc... ➡️| [site](https://codigoaprendiz.com.br/conjuntos-em-codigo/) ||
 |099| **Medidas de Volume em Código** |São aquelas que servem para avaliar a extensão considerada com três dimensões: comprimento, largura e altura; como o volume de uma pedra de concreto... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-volume-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/099-medidas-volume-em-cod.ipynb) |
@@ -15,6 +16,5 @@
 |095| **Medidas de Massa em Código** |Massa de um corpo é a quantidade de matéria desse corpo. Peso de um corpo é a resultante da ação da gravidade sobre a massa desse corpo... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-massa-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/095-medidas-de-massa-em-codigo.ipynb) |
 |094| **Medidas para Lenha em Código** |Na medição da lenha, usa-se o metro cúbico, com a designação de *estéreo*. O estéreo é a unidade autorizada para o volume de lenha... ➡️| [site](https://codigoaprendiz.com.br/medidas-para-lenha-em-codigo/) ||
 |093| **Medidas de Comprimento em Código** |São as que servem para avaliar as linhas, como o comprimento de um banco, de uma peça de fazenda, de uma estrada de rodagem, etc... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-comprimento-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/093-medidas-de-comprimento-em-codigo.ipynb) |
-|092| **Medidas de Capacidade em Código** |São as que servem para medir volumes de secos e molhados como vinho, azeite, grãos, farinha, certas frutas, etc. A unidade das medidas de capacidade é o litro... ➡️| [site](https://codigoaprendiz.com.br/medidas-de-capacidade-em-codigo/) ||
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
