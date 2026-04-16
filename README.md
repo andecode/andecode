@@ -6,6 +6,7 @@
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
+|114| **Radiciação de Radicais em Código** |A raiz n da raiz p de um número a é igual à raiz np do mesmo número a.Exemplos: 1. ³√(²√2) = ³²√2 = ⁶√2... ➡️| [site](https://codigoaprendiz.com.br/radiciacao-de-radicais-em-codigo/) ||
 |113| **Potenciação de Radicais em Código** |Para se elevar um radical a uma dada potência, basta elevar o radicando àquela potência. Exemplos: 1. (³√a)² = ³√a²... ➡️| [site](https://codigoaprendiz.com.br/potenciacao-de-radicais-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/113-ponteciacao-radicais-em-cod.ipynb) |
 |112| **Divisão de Radicais em Código** |O quociente das raízes enésimas de dois fatores a e b é igual à raiz enésima do quociente desses fatores. Do mesmo modo, como na multiplicação, consideremos dois casos na divisão... ➡️| [site](https://codigoaprendiz.com.br/divisao-de-radicais-em-codigo/) ||
 |111| **Multiplicação de Radicais em Código** |O produto das raízes enésimas de vários fatores é igual à raiz enésima do produto desses fatores. Distinguiremos, pois, dois casos... ➡️| [site](https://codigoaprendiz.com.br/multiplicacao-de-radicais-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/111-multiplica-radicais-em-cod.ipynb) |
@@ -15,6 +16,5 @@
 |107| **Propriedades da Radiciação em Código** |Primeira propriedade. Como: ⁿ√a = b, e: (ⁿ√a)ⁿ = a, bⁿ = a. A potência enésima da raiz enésima de um número real positivo *a* é igual ao próprio número *a*... ➡️| [site](https://codigoaprendiz.com.br/propriedades-da-radiciacao-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/107-prop-radiciacao-em-cod.ipynb) |
 |106| **Radiciação em Código** |Dado um número real positivo *a* e um número inteiro positivo *n*, chama-se raiz enésima aritmética de número a, ao número real positivo *b* cuja potência enésima é igual a *a*... ➡️| [site](https://codigoaprendiz.com.br/radiciacao-em-codigo/) ||
 |105| **Potência de Expoente Racional em Código** |Sabemos que sendo a > 0 e n > 2, vale a relação: ⁿ√a = b ⇒ bⁿ = a. A igualdade bn = a será verdadeira unicamente quando se substitui b pelo numeral 1... ➡️| [site](https://codigoaprendiz.com.br/potencia-de-expoente-racional-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/105-potencia-expoente-racional-em-cod.ipynb) |
-|104| **Propriedades da Potência em Código** |Sendo *a* um número real e *n* um número natural, chama-se potência de exploente inteiro o número an ou a-n, assim definido... ➡️| [site](https://codigoaprendiz.com.br/potencia-em-codigo-2/) ||
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
