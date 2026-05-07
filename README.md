@@ -2,19 +2,12 @@
 
 🧑‍💻 [codigoaprendiz.com.br](https://codigoaprendiz.com.br/)
 
-#### Aprendendo Programação com Matemática
+#### Aprenda Código
 
 |id| Título | Prévia | Link site | Link Github |
 |--| ---------------- |----------------|-------|-------|
-|127| **Polígonos em Código** |Polígono é a região do plano limitado por um poligonal fechada, ou ainda, a figura formada pela união dos n segmentos consecutivos. Um polígono tem vértices, ângulos, lados, diagonais e ângulos externos... ➡️| [site](https://codigoaprendiz.com.br/poligonos-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/127-poligono-em-cod.ipynb) |
-|126| **Bissetriz em Código** |Bissetriz é uma semi-reta de origem no vértice do ângulo que o divide em dois ângulos congruentes. Como a divisão de um ângulo por um inteiro conduz a um único resultado, podemos concluir que a bissetriz de um ângulo é única... ➡️| [site](https://codigoaprendiz.com.br/bissetriz-em-codigo/) ||
-|125| **Ângulos Complementares, Suplementares e Replementares em Código** |Dois ângulos são complementares quando a sua soma for 1 ângulo reto. Dois ângulos são suplementares quando a sua soma for 2 ângulos retos. Dois ângulos são replementares quando a sua soma for 4 ângulo retos... ➡️| [site](https://codigoaprendiz.com.br/angulos-complementares-suplementares-e-replementares-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/125-angulos-complem-em-cod.ipynb) |
-|124| **Ângulos Obtuso e Raso em Código** |Ângulo obtuso é quando admitimos que uma região angular de ângulo reto como subconjunto e for subconjunto próprio de 1 semi-plano. Sua medida é maior que 1 reto e menor que 2 retos. Ângulo raso é quando seus lados são semi-retas opostas de mesma origem... ➡️| [site](https://codigoaprendiz.com.br/angulos-obtuso-e-raso-em-codigo/) ||
-|123| **Ângulos Reto e Agudo em Código** |Ângulos retos são aqueles que possuem todos a mesma medida – 1 ângulo reto. Ângulo agudo é quando sua região angular for subconjunto próprio de uma região dos ângulos retos... ➡️| [site](https://codigoaprendiz.com.br/angulos-reto-e-agudo-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/123-angulos-reto-agudo-em-cod.ipynb) |
-|122| **Ângulos Consecutivos e Adjacentes em Código** |Ângulos consecutivos são aqueles que têm o mesmo vértice e um lado comum. Ângulos adjacentes são aqueles que têm o mesmo vértice e um lado comum, ficando os lados não comuns em semiplanos opostos em relação ao lado comum... ➡️| [site](https://codigoaprendiz.com.br/angulos-consecutivos-e-adjacentes-em-codigo/) ||
-|121| **Congruência dos Ângulos em Código** |Dois ângulos AÔB e A’Ô’B’ são côngruos, ou congruentes, quando podem coincidir ponto por ponto por superposição. Indica-se: AÔB = A’O’B’ ou ∠ AOB = A’O’B’... ➡️| [site](https://codigoaprendiz.com.br/congruencia-dos-angulos-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/121-congruencia-angulos-em-cod.ipynb) |
-|120| **Segmento em Código** |Podemos definir segmento de Reta como sendo a intersecção de duas semi-retas na situação. Observação: Sabemos que por dois pontos distintos A e B, passa uma única reta “r”; observamos que “r” fica dividida em 3 conjuntos de pontos... ➡️| [site](https://codigoaprendiz.com.br/segmento-em-codigo/) ||
-|119| **Reta e Semi-reta em Código** |Como já foi dito anteriormente a ideia de reta nos é dada através de intuição. Considerando uma imagem de um ponto A, por este ponto passam infinitas retas assim, dois pontos distintos determinam uma reta e três pontos não colineares determinam um plano... ➡️| [site](https://codigoaprendiz.com.br/reta-e-semi-reta-em-codigo/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/119-reta-semireta-em-cod.ipynb) |
-|118| **Geometria Plana em Código** |A geometria plana estuda as figuras planas. Entendemos por figura plana todo subconjunto, não vazio, de pontos de um plano. Quando dizemos, pois, que “F é uma figura plana”, estamos afirmando que F está totalmente contida num plano... ➡️| [site](https://codigoaprendiz.com.br/geometria-plana-em-codigo/) ||
+|001| x-x-x-x-x... ➡️| [site](https://codigoaprendiz.com.br/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/ |
+|002| x-x-x-x-x... ➡️| [site](https://codigoaprendiz.com.br) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/) |
+|003| x-x-x-x-x... ➡️| [site](https://codigoaprendiz.com.br/) |[repositório](https://github.com/andecode/codigo-aprendiz/blob/main/) |
 
 Tabela-resumo com as 10 (dez) últimas publicações do site [Código Aprendiz](https://codigoaprendiz.com.br/). Para visualizar a tabela completa [clique aqui](https://github.com/andecode/codigo-aprendiz/blob/main/README.md).
